@@ -1,1 +1,1 @@
-# The link with github has beean done seccessfully.
+# The link with github has been done seccessfully.
